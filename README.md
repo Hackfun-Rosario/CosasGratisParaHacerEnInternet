@@ -26,6 +26,7 @@ TODO
 
 #### Programación
 - [Code.org](https://studio.code.org/courses): Clases de programación para niñxs y jóvenes.
+- [free-programming-books-es](https://github.com/alepiumetti/free-programming-books/blob/master/free-programming-books-es.md): Libros en español para aprender lenguajes de programación, ciencias de la computación, metodologías de desarrollo, etc.
 
 #### Regex (Expresiones regulares)
 - [Learn Regex The Easy Way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-es.md): Tutorial sobre regex.
